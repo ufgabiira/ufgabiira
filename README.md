@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ufgabiira
-- 👀 I’m interested in web and desktop software development
-- 🌱 I’m currently learning Python and Qt (using PySide6)
-- 💞️ I’m looking to collaborate on Python/Qt projects
-- 💬 Reach me on twitter [@gabiira](https://twitter.com/gab_iira)
+- 👋 Hi, I’m @ufgabiira 🇧🇷
+- 👀 I’m interested in backend web development
+- 🌱 I’m currently studying Software Development at Estácio de Sá
+- 💞️ Looking forward to collaborate on Python projects
+- 💬 Reach me on twitter [@gabiira](https://twitter.com/gabiira)
 
 <!---
 ufgabiira/ufgabiira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
